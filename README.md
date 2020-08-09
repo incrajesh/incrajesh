@@ -1,4 +1,4 @@
-### Hi there, I'm Rajesh 👋
+## Hi there, I'm Rajesh 👋
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
