@@ -1,6 +1,4 @@
 ### Hi there, I'm Rajesh 👋
-<!--
-**incrajesh/incrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -12,7 +10,8 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rdparmar14@gmail.com)
 
 &nbsp;
-
+<!--
+**incrajesh/incrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,10 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--
-**incrajesh/incrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 I am a Multi-disciplinary Software Developer and well-rounded IT professional with over five years of experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment.
