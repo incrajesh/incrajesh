@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Multi-disciplinary Software Developer and well-rounded IT professional with over six years of experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment.
+I am a Multi-disciplinary Software Developer and well-rounded IT professional with over nine years of experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment.
 
 
 ## ⚡ Tech Stack 
